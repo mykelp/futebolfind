@@ -1,0 +1,32 @@
+{
+  "name": "futebolfind",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mykelp/futebolfind",
+  "authors": [
+    "Mykel Pereira <me@mykelpereira.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.5.1",
+    "ember-data": "~0.0.14",
+    "bootstrap": "~3.1.1",
+    "ember-addons.bs_for_ember": "~0.6.1",
+    "font-awesome": "~4.0.3",
+    "momentjs": "~2.6.0"
+  },
+  "resolutions": {
+    "ember": "~1.5.1"
+  },
+  "devDependencies": {
+    "ember-mocha-adapter": "~0.2.0"
+  }
+}
