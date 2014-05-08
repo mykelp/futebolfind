@@ -9,6 +9,12 @@
     "express": "3.4.8",
     "jade": "*",
     "mongodb": "*",
-    "mongoose": "*"
+    "mongoose": "*",
+    "passport": "latest",
+    "passport-local": "latest",
+    "passport-facebook": "latest",
+    "passport-twitter": "latest",
+    "underscore": "latest",
+    "bower": "latest"
   }
 }
